@@ -3,7 +3,7 @@ https://learn.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-stud
 <br/>
 Created on VS Code with C# extension.
 <br/>
-
+```diff
 On CLI:<br/>
 1 - create the class library project <br/>
 
@@ -11,7 +11,7 @@ On CLI:<br/>
 // -o specified the location to place the output<br/>
 
 2- add the library project to the solution <br/>
-dotnet sln add StringLibrary/StringLibrary.csproj<br/>
+- dotnet sln add StringLibrary/StringLibrary.csproj<br/>
 
 3 - create the console app <br/>
 dotnet new console -o ShowCase<br/>
@@ -24,3 +24,4 @@ dotnet add ShowCase/ShowCase.csproj reference StringLibrary/StringLibrary.csproj
 
 6 - run the app </br>
 dotnet run --project ShowCase/ShowCase.csproj </br>
+```
