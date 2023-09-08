@@ -6,7 +6,6 @@ Created on VS Code with C# extension.
 ```diff
 On CLI:
 1 - create the class library project 
-
 + dotnet new classlib -o StringLibrary
 // -o specified the location to place the output
 
