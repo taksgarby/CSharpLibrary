@@ -1,0 +1,12 @@
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/ClassLibraryProjects/StringLibrary/bin/Debug/net7.0/StringLibrary.deps.json
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/ClassLibraryProjects/StringLibrary/bin/Debug/net7.0/StringLibrary.dll
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/ClassLibraryProjects/StringLibrary/bin/Debug/net7.0/StringLibrary.pdb
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/ClassLibraryProjects/StringLibrary/obj/Debug/net7.0/StringLibrary.csproj.AssemblyReference.cache
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/ClassLibraryProjects/StringLibrary/obj/Debug/net7.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/ClassLibraryProjects/StringLibrary/obj/Debug/net7.0/StringLibrary.AssemblyInfoInputs.cache
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/ClassLibraryProjects/StringLibrary/obj/Debug/net7.0/StringLibrary.AssemblyInfo.cs
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/ClassLibraryProjects/StringLibrary/obj/Debug/net7.0/StringLibrary.csproj.CoreCompileInputs.cache
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/ClassLibraryProjects/StringLibrary/obj/Debug/net7.0/StringLibrary.dll
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/ClassLibraryProjects/StringLibrary/obj/Debug/net7.0/refint/StringLibrary.dll
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/ClassLibraryProjects/StringLibrary/obj/Debug/net7.0/StringLibrary.pdb
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/ClassLibraryProjects/StringLibrary/obj/Debug/net7.0/ref/StringLibrary.dll
