@@ -4,7 +4,7 @@ https://learn.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-stud
 Created on VS Code with C# extension.
 <br/>
 ```diff
-On CLI:<br/>
+On CLI:
 1 - create the class library project 
 
 + dotnet new classlib -o StringLibrary
