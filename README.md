@@ -6,7 +6,8 @@ Created on VS Code with C# extension.
 
 On CLI:<br/>
 1 - create the class library project <br/>
-dotnet new classlib -o StringLibrary<br/>
+
+<p style="color:blue">dotnet new classlib -o StringLibrary<br/></p>
 // -o specified the location to place the output<br/>
 
 2- add the library project to the solution <br/>
