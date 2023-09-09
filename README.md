@@ -18,7 +18,7 @@ On CLI:
 4 - add the console app to the solution 
 + dotnet sln add ShowCase/ShowCase.csproj
 
-5 - Initially, the new console app project doesn't have access to the class library. To allow it to call methods in the class library, create a project reference to the class library project.
+5 - create a project reference so the new console app has access to the class library project.
 + dotnet add ShowCase/ShowCase.csproj reference StringLibrary/StringLibrary.csproj
 
 6 - run the app 
